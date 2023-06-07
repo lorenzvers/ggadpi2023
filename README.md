@@ -15,7 +15,7 @@ TBD
 * E02: Mostrare clienti (nome, id) che provengono dal Brasile
 * E03: Mostrare dipendenti che sono "Sales Agents"
 * E04: Mostrare lista di paesi univoca dalla lista delle fatture
-* E05: Mostra le 10 fatture per totale
+* E05: Mostrare le top 10 fatture per totale
 * E06: Mostrare il numero e importo totale di fatture per anno
 * E07: Fare il conteggio delle voci per la fattura con ID 37
 * E08: Calcolare il conteggio delle voci per tutte le fatture
